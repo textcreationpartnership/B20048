@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation relating to the articles concluded between His Majesty, and the government of Algiers.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20048</idno><idno type="EEBO-CITATION">99890101_191307</idno>
+  <idno type="VID">191307</idno>
+  <idno type="EEBO-PROQUEST">2248545793</idno>
+  
+            <idno type="OCLC"> 15583699</idno>
+            <idno type="STC">Wing C3555</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[118]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[117]</idno>
+            <idno type="STC">ESTC R35958</idno>
+            <idno type="PROQUEST">ocm99890101</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890101e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191307)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[118]; C18:2[117])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation relating to the articles concluded between His Majesty, and the government of Algiers.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Whitehall, this two and twentieth day of December 1675. in the seven and twentieth year of our reign.</note>
+                  <note>Steele notation: Arms 87  His is 2) ei- Names.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel C18 consists of one contiguous sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Foreign relations --  Algeria --  Early works to 1800.</term>
+               <term type="geographic_name">Algeria --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191307:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1675</figDesc>
+                  <p>HONI · SO<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> · <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> · MAL · Y · PENSE</p>
+                  <p>DIEV · ET · MON DROIT.</p>
+               </figure> By the King. A PROCLAMATION Relating to the Articles concluded between His MAJESTY, and the Government of <hi>Algiers.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the late Articles of Peace concluded between His Majesty, and the Government of <hi>Algiers,</hi> His Majesty out of His Royal Care of the Persons and Estates of His Sub<g ref="char:EOLhyphen"/>jects, did agree and provide, That none of His Subjects employ<g ref="char:EOLhyphen"/>ed or trading in any <hi>English</hi> Ship or Vessel, should for the future be taken and sold as Slaves, or his or their Goods made Prize by any of the Subjects of the said Government of <hi>Algiers;</hi> And also, that any of His Majesties Subjects going in Foreign Ships, as Passengers onely, and having Authentick Passports testifying the same, should have the like freedom for their Persons and Goods aboard such Foreign Ships: And whereas His Majesty is informed, that divers of His Subjects, contrary to the effect and true meaning of the said Treaty, do take upon them to colour and conceal the Ships of Foreigners, with whom the said Government of <hi>Algier</hi> is in War, and to that end do ei<g ref="char:EOLhyphen"/>ther wholly Navigate the Ships of such Foreigners, or otherwise serve in the same as Mari<g ref="char:EOLhyphen"/>ners or Souldiers: Which way of proceeding, as it doth for the present administer just cause of Complaint from the said Government of <hi>Algier,</hi> so will it in a short time (if not prevented) indanger the Security intended by the said Articles for the Ships, Persons and Estates of His Majesties Subjects: His Majesty doth therefore by this His Royal Proclamation, strict<g ref="char:EOLhyphen"/>ly forbid all His Subjects, that they do not for the future Navigate the Ships or Vessels of any Foreigners in War with the said Government, nor presume to serve in the same either as Mariners or Souldiers. And His Majesty doth hereby further Declare, That if any Of<g ref="char:EOLhyphen"/>fenders contrary to this His Royal Proclamation, shall be taken, His Majesty will not require any release of their Persons or Estates from the said Government of <hi>Algier;</hi> but that they must expect to be excluded (as they were intended) out of the benefit of the said Articles; His Majesty also strictly charging such persons as shall hereafter go as Passengers in Foreign Ships or Vessels, to take care that they have Passports with them, signed by His Maje<g ref="char:EOLhyphen"/>sties proper Ministers in <hi>England,</hi> or His Ministers or Consuls abroad, expressing the Names of their Persons, and the Contents and Qualities of their Goods, at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>this Two and twentieth day of <hi>December</hi> 1675. in the Seven and twentieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>John Bill,</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty, 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
